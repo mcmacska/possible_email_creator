@@ -15,4 +15,4 @@ Possible Email Creator creates email addresses the target may have.
 # Usage
 Write the name and birth year (optional) of the target in the data.json file.
 
-    python3 main.py API_KEY
+    python3 main.py
